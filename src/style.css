@@ -9,6 +9,11 @@
     
 }
 
+td, th
+{
+    border: 1px solid black;
+}
+
 .cell.x
 {
     background-color: rgb(124,252,0);
