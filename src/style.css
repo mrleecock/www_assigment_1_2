@@ -1,0 +1,34 @@
+.cell
+{
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 30px;
+    
+}
+
+.cell.x
+{
+    background-color: rgb(124,252,0);
+}
+
+.cell.o
+{
+    background-color: rgb(250,128,114);
+}
+#progress-bar-container
+{
+    background-color: brown;
+    border: 1px solid black;
+    text-align: center;
+    height: 20px;
+    width: 300px;
+}
+
+#progress-bar
+{
+    background-color: blue;
+    height: 20px;
+}
